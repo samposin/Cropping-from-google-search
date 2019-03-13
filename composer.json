@@ -1,0 +1,7 @@
+{
+    "require": {
+        "voku/simple_html_dom": "^4.3",
+        "voku/portable-utf8": "^5.4",
+        "voku/simple-mysqli": "^8.0"
+    }
+}
